@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyberh4ck&label=Profile%20views&color=0e75b6&style=flat" alt="cyberh4ck" /> </p>
 
 
-- 🔭 I’m currently working on **INFORMATION SECURITY ENGINEER**
+- 🔭 I’m currently working on **INFORMATION SECURITY **
 
 - 🌱 I’m currently learning **AI**
 
